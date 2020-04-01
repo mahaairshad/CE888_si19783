@@ -1,7 +1,7 @@
 Lab5: Recommender systems
 
 Tasks:
-1. Load the data from ``jester-data-1.csv''
+1. Load the data from "*jester-data-1.csv*"
 2. Separate 10% of the dataset cells as as validation set.
 3. Use latent factor modeling to infer the hidden ratings of the users
 4. Calculate the performance (e.g., MSE) of the algorithm on the validation dataset
